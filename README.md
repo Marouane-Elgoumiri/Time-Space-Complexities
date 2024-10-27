@@ -6,6 +6,8 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
+![image](https://github.com/user-attachments/assets/fc65e051-4f58-44e7-a4af-ac19423b9ec6)
+
 </div>
 
 ## Table of Contents
@@ -33,6 +35,10 @@
 6. O(2ⁿ) - Exponential
 7. O(n!) - Factorial
 
+<div align="center">
+    
+![image](https://github.com/user-attachments/assets/be3c64ab-0572-48e7-84f4-7a933854a89a)
+</div>
 ## 2. Time Complexity Analysis
 
 ### Step-by-Step Analysis Method
